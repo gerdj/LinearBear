@@ -1,7 +1,8 @@
 # Marlin 3D Printer Firmware
 
-LinearBear  2.0.7.2
-XYZ 1.8°
+LinearBear<br>
+Marlin 2.0.7.2<br>
+XYZ 1.8°<br>
 E 1.8° LGX
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
