@@ -1,5 +1,10 @@
 # Marlin 3D Printer Firmware
 
+LinearBear Mosquito<br>
+Marlin 2.0.7.2<br>
+XYZ 1.8°<br>
+E 1.8° LGX<br>
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
